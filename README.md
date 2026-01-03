@@ -77,5 +77,3 @@ This will launch the app in your browser at `http://localhost:3000`.
 - **[freeCodeCamp](https://www.freecodecamp.org/)** - For providing excellent tutorials and resources.
 - **[YouTube Tutorial by Codevolution](https://youtu.be/F2JCjVSZlG0?si=L7-RGQEJ4ILUTqw_)** - For the React and TypeScript tutorial that helped me build this app.
 - **[React Quiz on GitHub by weibenfalk](https://github.com/weibenfalk/react-quiz)** - For the base code and inspiration for this project.
-
-Feel free to customize the text or add more credits as per your project’s requirements!
