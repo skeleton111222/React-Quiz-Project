@@ -28,8 +28,9 @@ The quiz pulls questions from an API and displays them in a random order, with s
 ### 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/react-quiz-app.git
-cd react-quiz-app
+git clone https://github.com/skeleton111222/React-Quiz-Project.git
+cd React-Quiz-Project
+code .
 ```
 
 ### 2. Install the dependencies:
