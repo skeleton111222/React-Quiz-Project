@@ -11,6 +11,9 @@
 # production
 /build
 
+# Ignore environment variables file in src folder
+src/.env
+
 # misc
 .DS_Store
 .env
