@@ -27,6 +27,54 @@ The quiz pulls questions from an API and displays them in a random order, with s
 
 ### 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/yourusername/react-quiz-app.git
 cd react-quiz-app
+```
+
+### 2. Install the dependencies:
+
+```
+npm install
+```
+
+### 3. Set up the environment variables:
+
+Create a `.env` file in the root directory of your project and add your API URL and any other required secrets.
+
+```env
+REACT_APP_API_URL=your-api-url-here
+REACT_APP_API_KEY=your-api-key-here
+```
+
+### 4. Start the development server:
+
+```
+npm start
+```
+
+This will launch the app in your browser at `http://localhost:3000`.
+
+## Usage
+
+- Once the app is up and running, you will see the quiz interface with different categories and difficulty levels.
+- Select a category and difficulty, and start answering questions.
+- After completing the quiz, you will be shown your score.
+
+## Contributing
+
+ Contributions are always Welcome to this project! If you would like to improve or add features, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature-name`)
+3. Make your changes and commit (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/your-feature-name`)
+5. Create a new Pull Request
+
+## Credits
+
+- **[freeCodeCamp](https://www.freecodecamp.org/)** - For providing excellent tutorials and resources.
+- **[YouTube Tutorial by Codevolution](https://youtu.be/F2JCjVSZlG0?si=L7-RGQEJ4ILUTqw_)** - For the React and TypeScript tutorial that helped me build this app.
+- **[React Quiz on GitHub by weibenfalk](https://github.com/weibenfalk/react-quiz)** - For the base code and inspiration for this project.
+
+Feel free to customize the text or add more credits as per your project’s requirements!
